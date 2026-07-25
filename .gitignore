@@ -1,41 +1,27 @@
-# Build results
+# Visual Studio
+.vs/
+
+# Build folders
 bin/
 obj/
 
-# User-specific files
+# User files
 *.user
 *.rsuser
 *.suo
 
-# Visual Studio
-.vs/
-
-# Rider
-.idea/
-
-# VS Code
-.vscode/
+# Visual Studio settings
+*.userosscache
+*.sln.docstates
 
 # Logs
 *.log
 
-# NuGet
-packages/
-*.nupkg
-
-# Publish output
-publish/
-
-# Test results
+# Test Results
 TestResults/
 
-# OS generated files
-Thumbs.db
-Desktop.ini
+# VS Code
+.vscode/
 
-# Environment files
-.env
-.env.*
-
-# ASP.NET Scaffolding
-ScaffoldingReadMe.txt
+# Rider
+.idea/
